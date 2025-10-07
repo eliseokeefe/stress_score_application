@@ -6,7 +6,7 @@ We used the following data set to train our model: https://www.kaggle.com/datase
 # Iteration 1 
 
 During this iteration, we worked on creating the foundation of our application. This includes: 
-- HTML/CSS skeleton 
-- JS file 
+- HTML/CSS skeletons
+- Starting to write JS file 
 - Importation of Kaggle Data Set 
 - Data Cleaning/Processing 
